@@ -1,0 +1,13 @@
+Include actual setup/code such as:
+
+Project folder structure
+requirements.txt
+Installation commands
+Environment-variable setup
+
+Python
+FastAPI
+Uvicorn
+AI API/SDK
+python-docx
+ReportLab
