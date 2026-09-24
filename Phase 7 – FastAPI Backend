@@ -1,0 +1,13 @@
+API code and explain endpoints such as:
+
+POST /generate
+POST /validate
+GET /document/{id}
+POST /export
+
+Show:
+
+Request
+Processing
+Response
+API testing screenshot
