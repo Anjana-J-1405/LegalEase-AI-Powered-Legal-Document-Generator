@@ -1,0 +1,11 @@
+Document type selection
+User input forms
+Input validation
+AI prompt creation
+AI response processing
+Legal document generation
+Editable document creation
+
+document_generator.py
+prompt_handler.py
+validator.py
